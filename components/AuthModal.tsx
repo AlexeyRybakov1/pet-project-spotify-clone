@@ -42,7 +42,7 @@ return (
     >
     <Auth
         supabaseClient={supabaseClient}
-        providers={['github']}
+        providers={['github','google','discord']}
         magicLink={true}
         appearance={{
             theme: ThemeSupa,

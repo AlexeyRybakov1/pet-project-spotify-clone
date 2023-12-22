@@ -116,7 +116,6 @@ className
                         className="bg-white">
                             <FaUserAlt />
                         </Button>
-                        Logged in
                     </div>
                 ) :(
                     <>
